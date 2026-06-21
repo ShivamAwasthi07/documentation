@@ -1,0 +1,3 @@
+## Overview
+
+This solution automatically converts accepted Rally user stories into structured Markdown documents and creates pull requests in a GitHub repository. It uses event-driven triggers to detect story acceptance and applies intelligent processing to transform requirements into developer-ready documentation (structured markdown, metadata, and links) without manual effort. The pipeline includes validation, formatting, and PR creation so documentation is consistently integrated alongside code and ready for review by engineering teams.
