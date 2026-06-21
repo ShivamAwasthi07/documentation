@@ -1,0 +1,9 @@
+nav:
+  - Home: README.md
+  - Architecture:
+      - Delegation:
+          - Overview: architecture/delegation/overview.md
+          - Business Impact: architecture/delegation/business-impact.md
+      - Reference Data:
+          - Overview: architecture/reference-data/overview.md
+          - Business Impact: architecture/reference-data/business-impact.md
