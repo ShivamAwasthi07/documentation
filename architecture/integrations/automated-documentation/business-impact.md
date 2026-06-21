@@ -1,0 +1,2 @@
+## Business Impact
+By automating documentation generation and PR creation, teams significantly reduce manual documentation effort and backlog. Consistent, machine-generated docs improve quality and traceability of requirements, accelerating developer onboarding and readiness. The automation shortens the feedback loop between product and engineering, allowing teams to focus on building features while ensuring requirements are well-documented and versioned in the repository.
