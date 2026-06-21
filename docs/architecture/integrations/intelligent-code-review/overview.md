@@ -1,0 +1,3 @@
+## Overview
+
+This solution automatically analyzes pull requests using AI-powered code review workflows. When developers submit code changes, the system evaluates code quality, security vulnerabilities, adherence to coding standards, and potential performance issues, then provides actionable feedback directly within the pull request. It integrates with Git repositories and CI/CD pipelines to enforce consistent review processes, surface suggested fixes, and accelerate feedback loops for engineering teams.
