@@ -1,0 +1,3 @@
+## Business Impact
+
+Automating documentation generation and PR creation reduces manual documentation work and improves consistency across artifacts. It accelerates development readiness by ensuring requirements are developer-ready as soon as stories are accepted, increases traceability between requirements and code repositories, and allows teams to focus on building features rather than preparing docs. The result is faster delivery cycles, fewer documentation errors, improved auditability, and better alignment between product intent and implementation.
