@@ -1,0 +1,2 @@
+## Business Impact
+Automating code reviews reduces the time spent on manual review tasks, enabling faster feedback loops and earlier defect detection. Teams improve code quality and security posture while enforcing coding standards at scale. This accelerates release cycles and frees senior engineers to focus on complex architecture and high-value work rather than repetitive review tasks, resulting in faster delivery, lower defect rates, and more efficient use of engineering resources.
