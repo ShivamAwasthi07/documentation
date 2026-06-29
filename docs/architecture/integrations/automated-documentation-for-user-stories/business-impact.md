@@ -1,0 +1,2 @@
+## Business Impact
+This automation reduces manual documentation effort, improves consistency and quality of requirements documentation, and accelerates development readiness. Teams spend less time on formatting and tracking docs and more time building features, while product requirements remain traceable in code repositories. The result is faster handoffs, better auditability, and lower risk of missing or inconsistent documentation.
