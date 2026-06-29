@@ -1,0 +1,2 @@
+## Overview
+This solution automatically converts accepted user stories into structured Markdown documents and opens pull requests in a GitHub repository. It leverages event-driven triggers (e.g., story acceptance events) and intelligent processing to extract requirements, format them into developer-ready documentation, and create traceable PRs without manual effort. The goal is to ensure requirements are consistently transformed into actionable docs that live alongside code.
